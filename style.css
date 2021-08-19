@@ -1,0 +1,52 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(74, 34, 119);
+    
+}
+
+button{
+    width: 100px;
+    height: 100px;
+    border:groove white;
+    border-;
+    border-inline-end-color:cornflowerblue;
+    border-block-start-color:cornflowerblue;
+}
+
+#btn_blk{
+    background-color: black;
+    border-top-left-radius: 100px;
+}
+#btn_blk:hover{
+    cursor: pointer;
+    background-color: rgb(42, 42, 43);
+}
+#btn_grn{
+    
+    background-color: rgb(3, 131, 3);
+    border-top-right-radius: 100px;
+}
+#btn_grn:hover{
+    cursor: pointer;
+    background-color: rgb(1, 100, 1);
+}
+#btn_yell{
+    background-color: rgb(148, 148, 5);
+    border-bottom-left-radius: 100px;
+}
+#btn_yell:hover{
+    cursor: pointer;
+    background-color: rgb(105, 105, 2);
+}
+#btn_cyn{
+    background-color: rgb(7, 163, 163);
+    border-bottom-right-radius: 100px;
+}
+#btn_cyn:hover{
+    cursor: pointer;
+    background-color: rgb(2, 100, 100);
+}
